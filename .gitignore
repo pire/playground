@@ -1,0 +1,7 @@
+log/*
+tmp/*
+cache/*
+.irb_history
+assets/.sass-cache/*
+*.DS_Store
+.sass-cache
